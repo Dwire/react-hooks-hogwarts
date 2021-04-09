@@ -1,5 +1,9 @@
 # Hogwarts: The React app for fans of prize-winning pigs
 
+- string in the data
+- debugging in general
+- controlled inputs/forms
+
 ## React Week 1 Project
 
 ## Deliverables

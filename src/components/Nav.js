@@ -6,6 +6,7 @@ const Nav = () => {
     <div className="navWrapper">
       <span className="headerText">Hogwarts</span>
       <div className="TwirlyPig">
+        <p></p>
         <img src={piggy} className="App-logo" alt="piggy" />
       </div>
       <span className="normalText">A React App for County Fair Hog Fans</span>
